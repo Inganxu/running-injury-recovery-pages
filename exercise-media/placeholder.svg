@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 112" role="img" aria-label="动作媒体暂不可用">
+  <rect width="160" height="112" rx="12" fill="#0b3158"/>
+  <path d="M46 83 69 58l16 13 28-33M45 36h.1M80 50h.1M115 31h.1" fill="none" stroke="#89def7" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+  <text x="80" y="101" fill="#d6f5ff" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">动作媒体加载中</text>
+</svg>
